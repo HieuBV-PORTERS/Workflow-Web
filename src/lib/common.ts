@@ -1,0 +1,3 @@
+// Handle some extension, common config, helper funtion etc.
+
+// Example: formatDateTime(),...
